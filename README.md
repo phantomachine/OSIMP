@@ -5,4 +5,4 @@ Sustainable International Monetary Policy Cooperation
 
 * Online Appendix referred from Main manuscript
 
-* Source codes TBA
+* Source codes (Will be available upon publication of manuscript)
