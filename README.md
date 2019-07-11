@@ -1,8 +1,6 @@
 # OSIMP
 Sustainable International Monetary Policy Cooperation
 
-* Main manuscript
+* Main manuscript + Online Appendix (not in published version)
 
-* Online Appendix referred from Main manuscript
-
-* Source codes (Will be available upon publication of manuscript)
+* Source codes (FORTRAN90 and OpenMP)
