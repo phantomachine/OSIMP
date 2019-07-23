@@ -2,7 +2,7 @@
 
 ## Sustainable International Monetary Policy Cooperation
 
-Public repository of complete paper and online appendix for the paper by Ippei Fujiwara, Timothy Kam and Takeki Sunakawa (currently R&R at the *Journal of Economic Dynamics and Control*).
+Public repository of complete paper and online appendix for the paper by Ippei Fujiwara, Timothy Kam and Takeki Sunakawa (Accepted at the *Journal of Economic Dynamics and Control*, July 22, 2019).
 
 ## Licensing Terms
 
