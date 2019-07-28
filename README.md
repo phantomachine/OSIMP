@@ -15,3 +15,7 @@ This repository and its content may be used publicly for non-profit research. If
 * Main manuscript + Online Appendix (not in published version), PDF
 
 * Source codes (FORTRAN90 and OpenMP with MATLAB interface)
+
+## Publisher Link
+
+https://doi.org/10.1016/j.jedc.2019.103721
