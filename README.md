@@ -14,7 +14,7 @@ This repository and its content may be used publicly for non-profit research. If
 
 * Main manuscript + Online Appendix (not in published version), PDF
 
-* Source codes (FORTRAN90 and OpenMP with MATLAB interface)
+* Source codes (FORTRAN90 and OpenMP with MATLAB interface) The programming code is written by Takeki Sunakawa (takeki.sunakawa@gmail.com). A brief explanation on the code is TBA.
 
 ## Publisher Link
 
