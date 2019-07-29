@@ -18,4 +18,4 @@ This repository and its content may be used publicly for non-profit research. If
 
 ## Publisher Link
 
-{% link https://doi.org/10.1016/j.jedc.2019.103721 %}
+[https://doi.org/10.1016/j.jedc.2019.103721](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"}
