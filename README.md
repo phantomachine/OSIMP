@@ -14,8 +14,8 @@ This repository and its content may be used publicly for non-profit research. If
 
 * Main manuscript + Online Appendix (not in published version), PDF
 
-* Source codes (Fortran 90 with MATLAB-MEX interface): The programming code is written by Takeki Sunakawa ([takeki.sunakawa@gmail.com](mailto:takeki.sunakawa@gmail.com)). A brief explanation on the code is TBA.
+* Source codes (Fortran 90 with MATLAB-MEX interface): The programming code is written by Takeki Sunakawa ([takeki.sunakawa@gmail.com](mailto:takeki.sunakawa@gmail.com)). 
 
 ## Publisher Link
 
-[https://doi.org/10.1016/j.jedc.2019.103721](https://doi.org/10.1016/j.jedc.2019.103721){:target="_blank"}
+[https://doi.org/10.1016/j.jedc.2019.103721](https://doi.org/10.1016/j.jedc.2019.103721)
